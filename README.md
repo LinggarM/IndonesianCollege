@@ -1,6 +1,6 @@
 # IndonesianCollege
 
-This is an android application that made for the final project submission for **"Belajar Membuat Aplikasi Android Untuk Pemula" (Android for Beginners)** course on Dicoding (2019). This application shows a list of **Top Universities or Colleges in Indonesia** along with their information for each of the universities.
+This is an android application that made for the final project submission for **"Belajar Membuat Aplikasi Android Untuk Pemula" (Android for Beginners)** course on Dicoding (2019). This application shows a list of **Top Universities or Colleges in Indonesia** along with the information for each of the universities.
 
 ## Screenshots
 Splash Screen | Dashboard | Detail Page | About Page
