@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Indonesian College</string>
+    <string name="about_creator">About Creator</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="alamat">Alamat</string>
+    <string name="website">Website</string>
+</resources>
