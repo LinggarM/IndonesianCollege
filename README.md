@@ -8,6 +8,7 @@ Splash Screen | Dashboard | Detail Page | About Page
 ![Screenshot 1](Screenshots/Screenshot_20230323-015432.jpg)  |  ![Screenshot 2](Screenshots/Screenshot_20230323-015440.jpg)  |  ![Screenshot 3](Screenshots/Screenshot_20230323-015447.jpg)  |  ![Screenshot 4](Screenshots/Screenshot_20230323-015452.jpg)
 
 ## Features & Technology Used
+* Android Studio
 * Java Programming Language
 * Object-oriented Programming
 * Fragment
